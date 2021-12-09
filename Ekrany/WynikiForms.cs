@@ -30,13 +30,13 @@ namespace POSK2.Ekrany
         private void ZaladujWyniki()
         {
             int i = 1;
-            foreach (var Wynik in TestOptyczny.WynikiOptycznyList)
+            foreach (var Wynik in WynikiLista)
             {
                 WynikiLiczbyLabel.Text += $"{i}. {Wynik.ToString()}ms.\n ";
                WynikiWykresChart.Series[0].Points.AddXY(i, Wynik);
                 i++;
             }
-            SredniaLabel.Text = $"Średnia: {Math.Round(TestOptyczny.WynikiOptycznyList.Average(),2)} ms.";
+            SredniaLabel.Text = $"Średnia: {Math.Round(WynikiLista.Average(),2)} ms.";
         }
 
         private void WyjscieDoMenuButton_Click(object sender, EventArgs e)
