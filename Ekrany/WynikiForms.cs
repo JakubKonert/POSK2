@@ -14,18 +14,20 @@ namespace POSK2.Ekrany
     {
         Form OknoRodzic;
         Form OknoTest;
+        List<int> WynikiLista = new List<int>();
 
-        public WynikiForms(Form OknoRodzic, Form OknoTest)
+        public WynikiForms(Form OknoRodzic, Form OknoTest, List<int> WynikiLista)
         {
+            this.WynikiLista = WynikiLista;
             this.OknoRodzic = OknoRodzic;
             this.OknoTest = OknoTest;
             InitializeComponent();
 
-            ZaladujWynikiOptyczne();
+            ZaladujWyniki();
 
         }
 
-        private void ZaladujWynikiOptyczne()
+        private void ZaladujWyniki()
         {
             int i = 1;
             foreach (var Wynik in TestOptyczny.WynikiOptycznyList)

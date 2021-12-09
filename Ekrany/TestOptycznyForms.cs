@@ -23,7 +23,7 @@ namespace POSK2.Ekrany
 
         private void WynikiOptycznyButton_Click(object sender, System.EventArgs e)
         {
-            new WynikiForms(OknoRodzic, this).ShowDialog();
+            new WynikiForms(OknoRodzic, this, TestOptyczny.WynikiOptycznyList).ShowDialog();
             this.Visible = false;
         }
 
