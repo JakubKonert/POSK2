@@ -1,0 +1,13 @@
+C:\Pliki\C#\POSK2\obj\Debug\POSK2.csproj.AssemblyReference.cache
+C:\Pliki\C#\POSK2\obj\Debug\POSK2.StartMenuForms.resources
+C:\Pliki\C#\POSK2\obj\Debug\POSK2.Properties.Resources.resources
+C:\Pliki\C#\POSK2\obj\Debug\POSK2.csproj.GenerateResource.cache
+C:\Pliki\C#\POSK2\obj\Debug\POSK2.csproj.CoreCompileInputs.cache
+C:\Pliki\C#\POSK2\bin\Debug\POSK2.exe.config
+C:\Pliki\C#\POSK2\bin\Debug\POSK2.exe
+C:\Pliki\C#\POSK2\bin\Debug\POSK2.pdb
+C:\Pliki\C#\POSK2\obj\Debug\POSK2.exe
+C:\Pliki\C#\POSK2\obj\Debug\POSK2.pdb
+C:\Pliki\C#\POSK2\obj\Debug\POSK2.Ekrany.TestOptycznyForms.resources
+C:\Pliki\C#\POSK2\obj\Debug\POSK2.Ekrany.WynikiForms.resources
+C:\Pliki\C#\POSK2\obj\Debug\POSK2.Ekrany.TestAkustycznyForms.resources
