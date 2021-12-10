@@ -48,10 +48,5 @@ namespace POSK2.Ekrany
             OknoTest.Close();
             this.Close();
         }
-
-        private void WynikiForms_Load(object sender, EventArgs e)
-        {
-
-        }
     }
 }

@@ -116,7 +116,6 @@ namespace POSK2.Ekrany
             this.Name = "WynikiForms";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "WynikiForms";
-            this.Load += new System.EventHandler(this.WynikiForms_Load);
             ((System.ComponentModel.ISupportInitialize)(this.WynikiWykresChart)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

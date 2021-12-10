@@ -73,8 +73,6 @@
     </Compile>
     <Compile Include="Klasy\TestAkustyczny.cs" />
     <Compile Include="Klasy\TestOptyczny.cs" />
-    <Compile Include="Klasy\WynikiAkustyczny.cs" />
-    <Compile Include="Klasy\WynikiOptyczny.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Ekrany\StartMenuForms.resx">

@@ -115,7 +115,7 @@ namespace POSK2.Ekrany
             // 
             // CzasOptycznyTimer
             // 
-            this.CzasOptycznyTimer.Interval = 3000;
+            this.CzasOptycznyTimer.Interval = 2000;
             this.CzasOptycznyTimer.Tick += new System.EventHandler(this.CzasOptycznyTimer_Tick);
             // 
             // StanLiczbyLabel
